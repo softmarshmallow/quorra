@@ -1,4 +1,4 @@
-![logo](docs/quor2a.png)
+![logo](docs/QUOR2A.png)
 
 # quorra
 
